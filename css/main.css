@@ -1,0 +1,130 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+@font-face {
+  font-family: roboto-light;
+  src: url(../fonts/roboto/Roboto-Light.woff);
+
+}
+@font-face {
+  font-family: roboto-bold;
+  src: url(../fonts/roboto/Roboto-Bold.woff);
+
+}
+body {
+    font-family: roboto-light;
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
+
+/*.navbar-default {
+  background-color: #3798cc;
+  border-color: #4494df;
+
+}
+.navbar-default .navbar-brand {
+  color: #c0e9f4;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #dbfffd;
+}
+.navbar-default .navbar-text {
+  color: #c0e9f4;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #c0e9f4;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #dbfffd;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu {
+  background-color: #3798cc;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+  color: #c0e9f4;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+  color: #dbfffd;
+  background-color: #4494df;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
+  background-color: #4494df;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+  color: #dbfffd;
+  background-color: #4494df;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #dbfffd;
+  background-color: #4494df;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #dbfffd;
+  background-color: #4494df;
+}
+.navbar-default .navbar-toggle {
+  border-color: #4494df;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #4494df;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #c0e9f4;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #c0e9f4;
+}
+.navbar-default .navbar-link {
+  color: #c0e9f4;
+}
+.navbar-default .navbar-link:hover {
+  color: #dbfffd;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #c0e9f4;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #dbfffd;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #dbfffd;
+    background-color: #4494df;
+  }
+}*/
+#mainnav{
+  height: 70px;
+  font-weight: 700;
+  text-transform: capitalize;
+  margin: auto;
+}
+.heads{
+  font-family: roboto-bold;
+}
+.chwaki{
+  color: #FA6121;
+}
+.links{
+  color: #EE3233;
+  font-weight: 400;
+}
